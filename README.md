@@ -83,12 +83,12 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ulugbek-Muhammadjonov}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kuziyev-Sharofiddin}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<!-- |                 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api? username=Ulugbek-Muhammadjonov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kuziyev-Sharofiddin github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuziyev-sharofiddin&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
+<!-- |                 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api? username=Kuziyev-Sharofiddin&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kuziyev-Sharofiddin github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuziyev-sharofiddin&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
 | ------------- | ------------- | -->
 
 <!--          ![Stats](https://github-readme-stats.vercel.app/api?username=kuziyev-sharofiddin&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
