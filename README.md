@@ -1,9 +1,8 @@
 <!--                                                        # Ulugbek Muhammadjonov  
-- 👋 Hi, I’m Ulugbek Muhammadjonov 
-- 👀 I’m interested in PHP, MVC, YIi2,JavaScript, JQuery, HTML, HTML5, CSS, CSS3,flexbox, Teamwork, API's,Database Management,MySql,Sql, PgSql and Multimedia Content Developmen.
-- 🌱 I’m currently learning Laravel 
+- 👋 Hi, I’m Kuziyev Sharofiddin 
+- 👀 I’m interested in PHP, MVC, Laravel,JavaScript, JQuery, HTML, HTML5, CSS, CSS3,flexbox, Teamwork, API's,Database Management,MySql,Sql, PgSql and Multimedia Content Developmen.
 - 💞️ I’m looking to collaborate on web app & platform development 
-- 📫 How to reach me muhammadjonovulugbek98@gmail.com  -->
+- 📫 How to reach me qoziyevsharofiddin199805@gmail.com  -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
@@ -89,12 +88,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<!-- |                 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api? username=Ulugbek-Muhammadjonov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ulugbek-Muhammadjonov github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulugbek-Muhammadjonov&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
+<!-- |                 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api? username=Ulugbek-Muhammadjonov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kuziyev-Sharofiddin github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuziyev-sharofiddin&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
 | ------------- | ------------- | -->
 
-<!--          ![Stats](https://github-readme-stats.vercel.app/api?username=Ulugbek-Muhammadjonov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulugbek-Muhammadjonov&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117) -->
+<!--          ![Stats](https://github-readme-stats.vercel.app/api?username=kuziyev-sharofiddin&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuziyev-sharofiddin&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117) -->
 <!---
-Ulugbek-Muhammadjonov/Ulugbek-Muhammadjonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\Kuziyev-Sharofiddin/Kuziyev-Sharofiddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
