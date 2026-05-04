@@ -49,16 +49,6 @@
 ### Studying in this moment: 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
-
-<!-- RANDOM DEV JOKE -->
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder&qColor=%2300bfbf&aColor=%2300bfbf" alt="Dev Joke" />
-</div>
-
 <!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
