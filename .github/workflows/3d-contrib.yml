@@ -19,7 +19,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: '{"type":"calendar","include_pie":false}'
+          SETTING_JSON: |
+            [
+              {
+                "type": "nightView",
+                "fileName": "profile-night-green.svg",
+                "backgroundColor": "#0d1117"
+              }
+            ]
 
       - name: Push to output-3d branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
