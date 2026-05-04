@@ -19,6 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: '{"type":"calendar","include_pie":false}'
 
       - name: Push to output-3d branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

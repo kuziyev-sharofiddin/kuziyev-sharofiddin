@@ -6,6 +6,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Kuziyev-Sharofiddin&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+<!-- 3D CONTRIBUTION GRAPH -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/kuziyev-sharofiddin/kuziyev-sharofiddin@output-3d/profile-night-green.svg" width="90%" alt="3D Contribution Graph" />
+</div>
+
 ### Main skills:
 
 <div align="center">
