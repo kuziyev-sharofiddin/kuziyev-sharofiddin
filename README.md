@@ -63,6 +63,14 @@
 
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/kuziyev-sharofiddin/kuziyev-sharofiddin@output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/kuziyev-sharofiddin/kuziyev-sharofiddin@output/github-snake.svg">
+    <img alt="Snake animation" src="https://cdn.jsdelivr.net/gh/kuziyev-sharofiddin/kuziyev-sharofiddin@output/github-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Kuziyev-Sharofiddin&label=Profile%20views&color=0e75b6&style=flat" /></p> 
 <br></div>
