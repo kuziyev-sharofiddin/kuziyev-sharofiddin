@@ -6,19 +6,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Kuziyev-Sharofiddin&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kuziyev-Sharofiddin&theme=react-dark&hide_border=true&area=true" />
-</div> 
- 
-<!--  ./STAT -->
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kuziyev-Sharofiddin&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kuziyev-Sharofiddin github stats" />  
-  <img width="37%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kuziyev-Sharofiddin&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kuziyev-Sharofiddin&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Kuziyev-Sharofiddin" /></div>
-
 <!-- 3D CONTRIBUTION GRAPH -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/kuziyev-sharofiddin/kuziyev-sharofiddin@output-3d/profile-night-green.svg" width="90%" alt="3D Contribution Graph" />
